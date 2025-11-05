@@ -17,7 +17,7 @@ unique_tags.add("python")
 #print(f"current set:  {unique_tags}")
 
 is_programming_tag_present = "programming" in unique_tags
-print(f"Is \'programing\' tag present? {is_programming_tag_present}")
+print(f"Is \'programming\' tag present? {is_programming_tag_present}")
 
 #final tags 
 
