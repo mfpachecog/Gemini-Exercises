@@ -7,5 +7,3 @@ HOURLY_RATE = 135.50
 SALES_TAX_RATE = 0.07
 
 print("---Welcome to the II Quote Generator---")
-
-hola
